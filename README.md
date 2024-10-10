@@ -3,9 +3,7 @@
 
 • Examined simulation and synthesis results while creating the bit stream file for FPGA (Basys-3) implementation using AMD Xilinx Vivado.
 
-• Used Cadence EDA tools , specifically NCVerilog forsimulation purposes,NCLaunch for Linting , Genus for timing analysis on Linux OS .
-
-• TOOLS : Verilog HDL ,Basys-3 FPGA , Xilinx Vivado , Cadence tools including (NCSim,NCVerilog,NCVlog, NCLaunch, Genus), Linux OS.
+• TOOLS : Verilog HDL ,Basys-3 FPGA , Xilinx Vivado .
 
 FIFO-Every memory in which the data word that is written in first also comes out first when the memory is read is a first-in first-out memory.
 
